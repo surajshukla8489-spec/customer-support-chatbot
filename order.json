@@ -1,0 +1,19 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD1001",
+      "status": "Processing",
+      "cancellable": true
+    },
+    {
+      "order_id": "ORD1002",
+      "status": "Shipped",
+      "cancellable": false
+    },
+    {
+      "order_id": "ORD1003",
+      "status": "Delivered",
+      "cancellable": false
+    }
+  ]
+}
